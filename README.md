@@ -1,4 +1,4 @@
-# 🚕 CABZI — Ride Booking & Sharing Platform
+# CABZI — Ride Booking & Sharing Platform
 
 CABZI is a full-stack ride booking and sharing application that I built to understand how a real-world cab platform works from frontend to backend.
 
